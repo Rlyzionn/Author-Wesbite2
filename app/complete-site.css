@@ -12,3 +12,7 @@
 @media(max-width:380px){.text-page-intro h1{font-size:54px}}
 .source-archive-link{display:block;font-size:10px;text-decoration:underline;text-underline-offset:4px;margin-top:18px;line-height:1.8}.artist-source{background:var(--yellow-soft);max-width:none}.artist-source>p:not(.eyebrow){font-size:14px;line-height:1.8;max-width:640px}.artist-source .button{margin-top:24px;font-size:12px}.ace-creed{font:italic 23px/1.5 var(--display);margin:0 0 32px;padding:0 0 0 24px;border-left:3px solid var(--red)}
 @media(max-width:760px){.artist-source h2{font-size:44px}.artist-source .button{font-size:11px;padding:14px 18px;text-align:left}.ace-creed{font-size:20px;padding-left:18px}}
+/* Cover colors for the newly restored editions. */
+.book-twin .book-art,.detail-cover.book-twin,.book-page-hero.book-twin .book-page-image{background:#d8d0e6}
+.book-doves .book-art,.detail-cover.book-doves,.book-page-hero.book-doves .book-page-image{background:#edc9bd}
+.book-blue .book-art,.detail-cover.book-blue,.book-page-hero.book-blue .book-page-image{background:#c5d9ee}

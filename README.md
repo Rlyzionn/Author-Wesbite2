@@ -1,12 +1,12 @@
-# Hal Manogue Reading Room
+# H.T. Manogue Reading Room
 
-An illustrated author website inspired by Hal Manogue's books and their cover art.
+An illustrated author website inspired by H.T. Manogue's books and their cover art.
 
 Public preview: https://tinyurl.com/28l2r62p
 
 ## Features
 
-- Interactive showcase of 11 books, reading moods, reviews and sample-chapter links.
+- Interactive showcase of 14 books and editions, reading moods, reviews and sample-chapter links.
 - About page with an enhanced author portrait and original-photo comparison.
 - Artist Corner, interactive Ace trademark story, charity, contact and Blogger journal pages.
 - AI reading guide and editable blog-draft studio.
@@ -42,4 +42,4 @@ Original book art, Ace and author content remain the property of their respectiv
 
 ## Validation
 
-The published source passed TypeScript and production-build checks, a 41-route production sweep, and desktop/mobile interaction and layout checks. Generated builds, dependencies, credentials and temporary research files are excluded from version control.
+The published source passed TypeScript and production-build checks, a 47-route sweep after the author corrections, and desktop/mobile interaction and layout checks. Generated builds, dependencies, credentials and temporary research files are excluded from version control.

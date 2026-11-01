@@ -1,5 +1,5 @@
 export const studioBooks=[
- {id:'lawn',title:'The Lawn Party',theme:'Thirty Paul Harmon paintings paired with poetry and reflections by Hal, Rumi and Seth. Art, awareness, unexpected connections.'},
+ {id:'lawn',title:'The Lawn Party',theme:'Thirty Paul Harmon paintings paired with poetry and reflections by H.T., Rumi and Seth. Art, awareness, unexpected connections.'},
  {id:'butterfly',title:'The Butterfly Ball',theme:'A novel about a Nashville girl finding healing and connection through butterflies and nature. Transformation and perspective. Includes assault; avoid sensationalism.'},
  {id:'orchid',title:'Black Orchid Night',theme:'Orchid grower Fiona experiences another life before WWII through lucid dreams. Dreams, identity, consciousness.'},
  {id:'echoes',title:'Echoes From the Wind',theme:'Poetry exploring awareness, creativity, belief and transformation.'},
@@ -10,7 +10,10 @@ export const studioBooks=[
  {id:'insights',title:'Short Sleeves Insights',theme:'Early essays; the original catalogue marks this collection as out of print.'},
  {id:'spirit',title:'Short Sleeves: Spirit Songs',theme:'The 2008 poetry collection. Connection, awareness and the inner life.'},
  {id:'friends',title:'Short Sleeves: A Book for Friends',theme:'The 2007 poetry collection. Forgiveness, unity, love and the cycles of life.'},
- {id:'ace',title:'Ace: Aware Connected Energy',theme:'Hal’s rainbow-shirted trademark character. Awareness, connection and energy as creative metaphors. Not a book title.'}
+ {"id":"twin","title":"Twin Faces Shadow’s Patience","theme":"Forty-three chapter descriptions open reflections on subjective reality, beliefs and consciousness. H.T. brings together Seth and Elias material as a personal dictionary of thoughts to explore in any order."},
+ {"id":"doves","title":"In the Yard of Miffery With Doves","theme":"A companion to Twin Faces Shadow’s Patience, drawing on Seth discussions, Facebook posts and Elias quotations. H.T. reflects on awareness, emotions and the possibilities of the inner life."},
+ {"id":"blue","title":"Short Sleeves: A Book for Friends (Blue Cover)","theme":"The first Short Sleeves: A Book for Friends collection, published in 2006. Its blue cover introduces Ace, the rainbow-shirted character at the heart of H.T.’s publishing identity. This is a separate edition from the 2007 collection."},
+ {id:'ace',title:'Ace: Aware Connected Energy',theme:'H.T.’s rainbow-shirted trademark character. Awareness, connection and energy as creative metaphors. Not a book title.'}
 ];
 export const starterIdeas=[
  {title:'The Garden That Changed Its Mind',angle:'A garden becomes a metaphor for the beliefs we keep watering.',book:'lawn'},
