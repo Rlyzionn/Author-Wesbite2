@@ -43,3 +43,7 @@ Original book art, Ace and author content remain the property of their respectiv
 ## Validation
 
 The published source passed TypeScript and production-build checks, a 47-route sweep after the author corrections, and desktop/mobile interaction and layout checks. Generated builds, dependencies, credentials and temporary research files are excluded from version control.
+
+## Vercel deployment
+
+The included vercel.json selects Next.js and runs npm run build:vercel. The AI routes read their credentials from server-side process.env. Set OPENROUTER_API_KEY as an encrypted production environment variable in Vercel. No NEXT_PUBLIC key is needed. The original Vinext/Sites build command remains available.

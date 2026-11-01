@@ -1,4 +1,4 @@
-import {env} from 'cloudflare:workers';
+const env = process.env;
 import {studioBooks} from '../../../components/studio/data';
 const quotas=new Map<string,{count:number;until:number}>();
 export async function POST(req:Request){
