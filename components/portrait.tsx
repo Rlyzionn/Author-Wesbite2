@@ -1,0 +1,3 @@
+"use client";
+import {useState} from 'react';
+export default function Portrait(){const [original,setOriginal]=useState(false);return <figure className="portrait-story" data-drift><div className={'portrait-comparison '+(original?'original':'')}><img src="/images/hal-hd.webp" alt="HD-enhanced original photograph of Hal Manogue in an art-filled room" width="1086" height="1448" fetchPriority="high"/><img src="/images/hal-original.png" alt="Original author photograph before enhancement" width="432" height="576"/></div><figcaption><span>{original?'Original photograph':'Original photograph, AI-enhanced for clarity'}</span><button onClick={()=>setOriginal(!original)} aria-pressed={original}>{original?'See HD version':'See original'}</button></figcaption></figure>}
